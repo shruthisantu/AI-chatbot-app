@@ -1,0 +1,11 @@
+{
+    "python.languageServer": "Pylance",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.indexing": true
+}
